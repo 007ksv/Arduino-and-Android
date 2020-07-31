@@ -1,8 +1,8 @@
 # Introduction
 In this repo i am trying to control arduino using android application. Basically this uses bluetooth communication.
 ![ard](https://user-images.githubusercontent.com/45923721/86225759-abad5100-bb58-11ea-8abe-374eee0d99b6.jpg)   
-![ard] (https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Android_new_logo_2019.svg/1280px-Android_new_logo_2019.svg.png)
-![ard] (https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BluetoothLogo.svg/1280px-BluetoothLogo.svg.png)
+![ard](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Android_new_logo_2019.svg/1280px-Android_new_logo_2019.svg.png)
+![ard](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BluetoothLogo.svg/1280px-BluetoothLogo.svg.png)
 
 # Component required 
 - An arduino uno (or any similar arduino family board)
